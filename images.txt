@@ -5,5 +5,5 @@ langgenius/dify-api:1.0.0
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
-#指定特定架构的xiaoyaliu/alist镜像
+#指定特定架构的xiaoyaliu/alist镜像,如果有重名的镜像，会使用platform作为前缀
 #--platform=linux/arm64 xiaoyaliu/alist
